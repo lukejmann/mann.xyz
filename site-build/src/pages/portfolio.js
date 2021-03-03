@@ -50,7 +50,7 @@ const Portfolio = (props) => {
       position: "relative",
       width: props.portfolioWindowWidth,
       marginTop: vertSpacing,
-      cursor: "pointer",
+      // cursor: "pointer",
     },
   };
 

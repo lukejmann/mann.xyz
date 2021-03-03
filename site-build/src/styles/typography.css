@@ -15,12 +15,14 @@
 
 @font-face {
   font-family: "Hndrxx-Medium";
-  src: url("../fonts/HndrxxMedium.otf");
+  /* src: url("../fonts/HndrxxMedium.otf") format("opentype"); */
+  src: url("../fonts/Celias-Medium.woff");
 }
 
 @font-face {
   font-family: "Hndrxx-Semibold";
-  src: url("../fonts/HndrxxSemibold.otf");
+  /* src: url("../fonts/HndrxxSemibold.otf") format("opentype"); */
+  src: url("../fonts/Celias-Bold.woff");
 }
 
 @font-face {
