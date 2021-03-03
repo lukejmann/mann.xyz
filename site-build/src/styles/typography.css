@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "SF-Black";
+  src: url("../fonts/SF-Pro-Display-Black.otf");
+}
+
+@font-face {
+  font-family: "SF-Bold";
+  src: url("../fonts/SF-Pro-Display-Bold.otf");
+}
+
+@font-face {
+  font-family: "SF-Medium";
+  src: url("../fonts/SF-Pro-Display-Medium.otf");
+}
+
+@font-face {
+  font-family: "Hndrxx-Medium";
+  src: url("../fonts/HndrxxMedium.otf");
+}
+
+@font-face {
+  font-family: "Hndrxx-Semibold";
+  src: url("../fonts/HndrxxSemibold.otf");
+}
+
+@font-face {
+  font-family: "Sequel";
+  src: url("../fonts/Sequel100Black-95.ttf");
+}
+
+@font-face {
+  font-family: "Inter-Semibold";
+  src: url("../fonts/Inter-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Inter-Bold";
+  src: url("../fonts/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: "Inter-Regular";
+  src: url("../fonts/Inter-Regular.ttf");
+}
